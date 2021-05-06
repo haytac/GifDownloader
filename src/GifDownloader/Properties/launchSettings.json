@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GifDownloader": {
+      "commandName": "Project",
+      "commandLineArgs": "download -if \"C:\\VisualStudioProjects\\GifDownloader\\src\\GifDownloader\\SampleDatas\\data-with-name.json\""
+    }
+  }
+}
